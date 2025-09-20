@@ -1,0 +1,1 @@
+Fursona de Jason Ferreti, tendo a aparência de um furão agressivo, ele tem o poder de soltar uma ventania extremamente forte.

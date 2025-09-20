@@ -1,0 +1,1 @@
+Final Countdown, um axolote de corpo humanóide e relógios pelo corpo, o seu poder seria transformar Gus, ou, alguma matéria que possui uma forma (objeto, por exemplo), em qualquer animal/ser vivo que quiser, de qualquer época

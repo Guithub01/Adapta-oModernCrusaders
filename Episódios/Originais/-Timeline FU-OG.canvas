@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"989c0dea26704d89","x":14,"y":-166,"width":846,"height":386,"type":"group","label":"EP 1"},
+		{"id":"f31ef3d81aa4c767","x":40,"y":-140,"width":260,"height":140,"type":"text","text":"[[Gustavo Trevor]], [[Pepper Lynn]], [[Jason Ferreti]], e [[João]], Falam com o [[Epherous]] e [[Minato Kanedaichi]], e ganham [[Chave Vermelha]]s "},
+		{"id":"ae8818f628e64963","x":400,"y":-110,"width":180,"height":80,"type":"text","text":"[[Raider]] se confessa para [[Lenard]]."},
+		{"id":"96486dd96aa36d64","x":660,"y":0,"width":163,"height":61,"type":"text","text":"[[Raider]], vai até o dormitório"}
+	],
+	"edges":[
+		{"id":"d405319944dd5800","fromNode":"f31ef3d81aa4c767","fromSide":"right","toNode":"ae8818f628e64963","toSide":"left"},
+		{"id":"8211fb5a7c29ab2b","fromNode":"ae8818f628e64963","fromSide":"right","toNode":"96486dd96aa36d64","toSide":"top"}
+	]
+}

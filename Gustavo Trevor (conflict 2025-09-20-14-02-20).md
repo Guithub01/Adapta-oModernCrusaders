@@ -1,0 +1,3 @@
+Gustavo Trevor, co-protagonista e um dos membros da sorrow.
+Tem a personalidade levemente frio, com raiva constante e certas vezes impulsivo. Costuma ser o inteligente do grupo e, de vez em quando, sarcástico.
+Sua fursona é Final Countdown, um axolote de corpo humanóide e relógios pelo corpo, o seu poder seria transformar Gus, ou, alguma matéria que possui uma forma (objeto, por exemplo), em qualquer animal/ser vivo que quiser, de qualquer época.

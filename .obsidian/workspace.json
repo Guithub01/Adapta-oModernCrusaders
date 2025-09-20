@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "8417b0f7791b023a",
+    "type": "split",
+    "children": [
+      {
+        "id": "08fbdee9c7b45286",
+        "type": "tabs",
+        "dimension": 47.41532976827094,
+        "children": [
+          {
+            "id": "546c28259fde7f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gustavo Trevor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gustavo Trevor"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc370b1a961fcf95",
+        "type": "tabs",
+        "dimension": 52.58467023172906,
+        "children": [
+          {
+            "id": "2cb32ce973f0eec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gustavo Trevor (conflict 2025-09-20-14-02-20).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gustavo Trevor (conflict 2025-09-20-14-02-20)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93ac8d8e3c44aab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a1d1172e28d9b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85646df48509dd47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "b66468b926c0c2fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "83c7e200a60536f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f612268146661e04",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2cf50b4499f6cd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f343059cce11c49f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Primeiro Episódio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Primeiro Episódio"
+            }
+          },
+          {
+            "id": "e4a30f734977083f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Primeiro Episódio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Primeiro Episódio"
+            }
+          },
+          {
+            "id": "50f723d6654d5f5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "814807c448fc8415",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Primeiro Episódio.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Primeiro Episódio"
+            }
+          },
+          {
+            "id": "85c1cefc78d29793",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Gustavo Trevor.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
+          },
+          {
+            "id": "684d4e8e8b1e7020",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "546c28259fde7f7c",
+  "lastOpenFiles": [
+    "Gustavo Trevor (conflict 2025-09-20-14-02-20).md",
+    "João.md",
+    "Raider.md",
+    "Gustavo Trevor.md",
+    "Fursonas/JFerret.md",
+    "Fursonas/Final Countdown (conflict 2025-09-20-14-02-28).md",
+    "Episódios/Originais/FU-OG - 01 (conflict 2025-09-20-14-02-27).md",
+    "Conceitos/Fursona (conflict 2025-09-20-14-02-26).md",
+    "Episódios/Originais/FU-OG - 01.md",
+    "Fursonas/Final Countdown.md",
+    "Conceitos/Gags/CALMA ... É O TERCEIRO ANDAR.md",
+    "Media/Prints/Espanhaproblem2.png",
+    "Media/Prints/Espanhaproblem1.png",
+    "Media/Prints",
+    "Sem título",
+    "Conceitos/Fursona.md",
+    "Episódios/Originais/-Timeline FU-OG.canvas",
+    "Conceitos/Gags",
+    "Sem título.canvas",
+    "Media",
+    "Sem título.base",
+    "Episódios/Adaptações",
+    "Conceitos",
+    "Locais",
+    "Personagens/Pepper Lynn.md",
+    "Locais/Sala Vermelha.md",
+    "Fursonas",
+    "Episódios/Originais",
+    "Bem-vindo.md"
+  ]
+}
